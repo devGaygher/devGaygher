@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devGaygher. I`m looking for a job with mobile development (Android)
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Android App development (Kotlin and JavaScript) by myself
+- 😄 Pronouns: He/Him
