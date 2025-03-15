@@ -28,7 +28,7 @@ I also really enjoy front-end and mobile development, with some knowledge in HTM
 ## Contact
 
 - [LinkedIn](https://br.linkedin.com/in/rafael-pereira-ferreira-gaygher-017724166)
-- [Email](dev.gaygher@gmail.com)
+- [Email](mailto:dev.gaygher@gmail.com)
 
 ---
 
