@@ -1,36 +1,42 @@
-# devGaygher
+Hi, I'm Rafael 👋
 
-Hello! Welcome to my repositories! My name is devGaygher, and I’m very happy to have you here.  
-Currently, I'm focused on developing my skills in data engineering, so the most recent projects will involve stacks from this field (such as Python and Apache Hop).  
-I also really enjoy front-end and mobile development, with some knowledge in HTML, CSS, JavaScript, SASS, BootStrap, Tailwind, and Kotlin (a language that I love so much).
+I'm transitioning into Data Analytics and Business Intelligence, combining my background in Quality Control with hands-on projects in SQL, data validation, and data modeling.
+My previous experience in the food industry taught me to pay attention to data consistency, investigate inconsistencies, and document processes. I'm now applying that mindset to data analysis, turning raw data into reliable information that supports business decisions.
 
-## Skills
+🚀 Featured Project
+Olist BI - E-commerce Analytics
 
-- **Languages**: Python, SQL
-- **Technologies**: Apache Hop, Power BI
-- **Knowledge**: ETL, Data Modeling, Data Processing
-- **Tools**: Jupyter, Git, Docker
-- **Others**: Web Development (HTML, CSS, JavaScript) and Android Mobile Development (Kotlin)
+A portfolio project simulating the role of a data analyst in a fictional e-commerce business, using the public Olist dataset from Kaggle.
+The project focuses on preparing, validating, and analyzing data to answer business questions and develop a Power BI dashboard.
+Tech stack: MySQL 8, SQL, Git, GitHub, and Power BI (planned).
 
-## What I'm currently learning:
+Current focus:
+Data loading and quality validation
+SQL queries and relational data modeling
+Primary and foreign keys, integrity constraints, and testing
+Documenting business definitions and analytical assumptions
+Business analysis and dashboard development
 
-- **Data Engineering** (ETL, data architecture)
-- **Python** for automation and data analysis
-- **Apache Hop** for processing large volumes of data
-- **Power BI** for data visualization
+🛠️ Skills & Technologies
+SQL & Databases: SQL, MySQL
+Data Analytics & BI: Data profiling, data quality, relational data modeling, Power BI (learning)
+Data Engineering: ETL concepts, data processing, Python (learning)
+Tools & Workflow: Git, GitHub, Docker, Jupyter
+Other Development: HTML, CSS, JavaScript, Sass, Bootstrap, Tailwind CSS, Kotlin
 
-## Languages
+📚 Currently Learning
+Writing SQL queries for business analysis
+Data modeling and database integrity
+Power BI and data visualization
+Python for data analysis and automation
+ETL workflows and Apache Hop
 
-- **Portuguese** (native)
-- **English** (intermediate)
-- **Spanish** (basic)
+🌍 Languages
+Portuguese: Native
+English: Intermediate
+Spanish: Basic
 
-## Contact
-
-- [LinkedIn](https://br.linkedin.com/in/rafael-pereira-ferreira-gaygher-017724166)
-- [Email](mailto:dev.gaygher@gmail.com)
-
----
-
-Feel free to explore my repositories and contact me if you have any questions or if you'd like to collaborate on interesting projects!
+📫 Contact
+LinkedIn: Rafael Pereira Ferreira Gaygher
+Email: dev.gaygher@gmail.com
 
