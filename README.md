@@ -25,6 +25,12 @@ Atualmente, desenvolvo projetos de **Data Analytics e Business Intelligence**, a
 
 #### 🛒 [Olist BI — E-commerce Data Analytics](https://github.com/devGaygher/olist-bi)
 
+<p align="left">
+    <a href="https://github.com/devGaygher/olist-bi">
+        <img src="assets/projects/olist-bi.png" alt="Olist BI — E-commerce Data Analytics" width="650" />
+    </a>
+</p>
+
 Projeto de análise de dados utilizando o dataset público de e-commerce brasileiro da Olist.
 
 A solução contempla o tratamento, a validação, a modelagem e a análise de dados relacionados a vendas, clientes, logística e satisfação, com desenvolvimento de dashboards interativos para apoio à tomada de decisões.
@@ -42,9 +48,17 @@ A solução contempla o tratamento, a validação, a modelagem e a análise de d
 
 **Stack:** SQL · MySQL · Power BI · DAX · Power Query
 
+**[Acessar projeto completo →](https://github.com/devGaygher/olist-bi)**
+
 ---
 
 #### 📊 [Quality Analytics — Non-Conformity Management](https://github.com/devGaygher/quality-analytics-dashboard)
+
+<p align="left">
+    <a href="https://github.com/devGaygher/quality-analytics-dashboard">
+        <img src="assets/projects/quality-analytics.png" alt="Quality Analytics — Non-Conformity Management" width="650" />
+    </a>
+</p>
 
 Projeto de Business Intelligence desenvolvido originalmente para atender a uma necessidade real de controle e acompanhamento de indicadores de qualidade na indústria alimentícia.
 
@@ -67,11 +81,13 @@ A solução contempla a extração, o tratamento, a padronização e a validaç�
 
 > Projeto autorizado para divulgação profissional, utilizando uma base demonstrativa de 529 registros sintéticos.
 
+**[Acessar projeto completo →](https://github.com/devGaygher/quality-analytics-dashboard)**
+
 ---
 
 #### 💰 Corporate Financial Analytics — Brazilian Steel Industry
 
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-0369A1?style=flat-square)
+**Status:** 🚧 Em desenvolvimento
 
 Projeto de análise econômico-financeira de empresas brasileiras de capital aberto, utilizando dados públicos oficiais da Comissão de Valores Mobiliários (CVM).
 
@@ -156,26 +172,36 @@ O objetivo é desenvolver um dashboard executivo de desempenho financeiro, permi
 
 ---
 
-### 📁 Repositórios
+### 📚 Repositórios de Estudos
+
+#### 🗄️ [SQL & MySQL Studies](https://github.com/devGaygher/mysql-sql-studies)
 
 <p align="left">
-    <a href="https://github.com/devGaygher/olist-bi">
-        <img
-            alt="Olist BI"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=olist-bi&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D&v=20261124"
-        />
-    </a>
     <a href="https://github.com/devGaygher/mysql-sql-studies">
-        <img
-            alt="SQL e MySQL"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=mysql-sql-studies&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D&v=20261124"
-        />
+        <img src="assets/projects/sql-mysql-studies.png" alt="SQL & MySQL Studies" width="650" />
     </a>
 </p>
 
+Repositório dedicado ao desenvolvimento e aprimoramento de conhecimentos em SQL e bancos de dados relacionais.
+
+**Principais conteúdos:**
+
+- Consultas SQL;
+- JOINs e subqueries;
+- CTEs e views;
+- Modelagem de bancos de dados relacionais;
+- Chaves primárias e estrangeiras;
+- Restrições de integridade;
+- Permissões de usuários;
+- Estudos utilizando a base Sakila.
+
+**Stack:** SQL · MySQL · Sakila
+
+**[Acessar repositório de estudos →](https://github.com/devGaygher/mysql-sql-studies)**
+
 ---
 
-### 📚 Aprendizado Contínuo
+### 📖 Aprendizado Contínuo
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
@@ -199,6 +225,7 @@ Atualmente, estou aprofundando meus conhecimentos em:
 - Industrial Analytics
 - Business Analysis
 - Process Automation
+- Data Engineering
 
 ---
 
