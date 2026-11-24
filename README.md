@@ -19,13 +19,7 @@ Olá! Sou o Rafael, estou em transição de carreira para **Análise de Dados e 
             src="https://img.shields.io/badge/Email-dev.gaygher@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/devGaygher?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://img.shields.io/github/followers/devGaygher?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba&logoColor=white"
-        />
-    </a>
+    
 </p>
 
 ---
