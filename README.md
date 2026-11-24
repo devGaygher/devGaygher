@@ -1,89 +1,176 @@
 # 📊 Rafael Gaygher
 
-**`Analista de Dados | Business Intelligence`**
+**`Data Analyst | Business Intelligence | Data Quality`**
 
-Olá! Sou o Rafael, estou em transição de carreira para **Análise de Dados e Business Intelligence**. Venho da área de Controle de Qualidade na indústria alimentícia, onde aprendi a cuidar da consistência dos dados, investigar inconsistências e documentar processos. Hoje aplico esse mesmo olhar em projetos de SQL, validação e modelagem de dados, transformando dados brutos em informação confiável para apoiar decisões de negócio.
+Olá! Sou Rafael, graduado em **Química Industrial** e graduando em **Tecnologia em Sistemas para Internet** pelo Instituto Federal do Espírito Santo (IFES).
+
+Possuo experiência profissional em análise de indicadores operacionais, tratamento e validação de dados, desenvolvimento de dashboards gerenciais e melhoria contínua de processos.
+
+Meu interesse pela área de dados surgiu durante minha atuação como Analista de Qualidade na indústria alimentícia, quando desenvolvi soluções para transformar registros operacionais em indicadores que apoiassem a tomada de decisões.
+
+Atualmente, desenvolvo projetos de **Data Analytics e Business Intelligence**, aplicando conhecimentos em SQL, Python, Power BI, Excel, ETL e modelagem de dados para resolver problemas de negócio.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rafael-gaygher/">
-        <img
-            alt="LinkedIn"
-            title="Me siga no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Rafael%20Gaygher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Gaygher-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:dev.gaygher@gmail.com">
-        <img
-            alt="Email"
-            title="Envie um e-mail"
-            src="https://img.shields.io/badge/Email-dev.gaygher@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
+        <img alt="Email" title="Entre em contato" src="https://img.shields.io/badge/Email-dev.gaygher@gmail.com-0369A1?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    
 </p>
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projetos de Portfólio
 
-**[Olist BI - Análise de E-commerce](https://github.com/devGaygher/olist-bi)**
-Projeto de portfólio que simula o papel de um analista de dados em um e-commerce, usando o dataset público da Olist (Kaggle). O foco é preparar, validar e analisar os dados para responder perguntas de negócio e desenvolver um dashboard no Power BI.
+#### 🛒 [Olist BI — E-commerce Data Analytics](https://github.com/devGaygher/olist-bi)
 
-**Foco atual:**
-- Carga e validação da qualidade dos dados
-- Consultas SQL e modelagem relacional
-- Chaves primárias e estrangeiras, restrições de integridade e testes
-- Documentação de definições de negócio e premissas analíticas
-- Análise de negócio e desenvolvimento de dashboard
+Projeto de análise de dados utilizando o dataset público de e-commerce brasileiro da Olist.
+
+A solução contempla o tratamento, a validação, a modelagem e a análise de dados relacionados a vendas, clientes, logística e satisfação, com desenvolvimento de dashboards interativos para apoio à tomada de decisões.
+
+**Principais competências aplicadas:**
+
+- Data Profiling e qualidade de dados;
+- ETL e tratamento de informações;
+- Consultas SQL e MySQL;
+- Modelagem dimensional em esquema estrela;
+- Desenvolvimento de medidas DAX;
+- Análise de indicadores de negócio;
+- Dashboards interativos em Power BI;
+- Documentação técnica.
+
+**Stack:** SQL · MySQL · Power BI · DAX · Power Query
+
+---
+
+#### 💰 Corporate Financial Analytics — Brazilian Steel Industry
+
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-0369A1?style=flat-square)
+
+Projeto de análise econômico-financeira de empresas brasileiras de capital aberto, utilizando dados públicos oficiais da Comissão de Valores Mobiliários (CVM).
+
+O objetivo é desenvolver um dashboard executivo de desempenho financeiro, permitindo comparar resultados, rentabilidade, liquidez, endividamento e geração de caixa.
+
+**Escopo planejado:**
+
+- Extração e tratamento de demonstrações financeiras;
+- Automação de processos ETL;
+- Validação e reconciliação contábil;
+- Análise horizontal e vertical;
+- Comparação de desempenho entre empresas;
+- Indicadores financeiros como EBITDA, ROE, ROA e capital de giro;
+- Dashboard executivo de página única.
+
+**Stack planejada:** Python · Pandas · SQL · MySQL · Power BI · DAX
 
 ---
 
 ### 🛠️ Linguagens e Tecnologias
 
+#### 🗄️ Linguagens e Bancos de Dados
+
 <p align="left">
-    <img alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logoColor=white" />
+    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+#### 📊 Data Analytics e Business Intelligence
+
+<p align="left">
+    <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power%20BI-0369A1?style=for-the-badge&logo=powerbi&logoColor=white" />
+    <img alt="Excel" title="Microsoft Excel" src="https://img.shields.io/badge/Excel-0369A1?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img alt="Power Query" title="Power Query" src="https://img.shields.io/badge/Power%20Query-0369A1?style=for-the-badge&logoColor=white" />
+    <img alt="Power Pivot" title="Power Pivot" src="https://img.shields.io/badge/Power%20Pivot-0369A1?style=for-the-badge&logoColor=white" />
+    <img alt="DAX" title="DAX" src="https://img.shields.io/badge/DAX-0369A1?style=for-the-badge&logoColor=white" />
+    <img alt="Pandas" title="Pandas" src="https://img.shields.io/badge/Pandas-0369A1?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="OpenPyXL" title="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-0369A1?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### ⚙️ Versionamento e Gerenciamento de Projetos
+
+<p align="left">
+    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Trello" title="Trello" src="https://img.shields.io/badge/Trello-161B22?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
+#### 💻 Desenvolvimento Web
+
+<p align="left">
+    <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-334155?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-334155?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Competências Técnicas
+
+| Área | Competências |
+| :--- | :--- |
+| **Data Analytics** | Análise exploratória, análise de tendências e identificação de padrões |
+| **Data Quality** | Data Profiling, Data Cleaning, consistência, integridade e validação |
+| **ETL** | Extração, transformação, padronização e carregamento de dados |
+| **Data Modeling** | Modelagem relacional e dimensional (Star Schema) |
+| **Business Intelligence** | Dashboards interativos, KPIs, DAX e relatórios gerenciais |
+| **Automação** | Python, Pandas e OpenPyXL |
+| **Business Analysis** | Análise de processos, indicadores operacionais e análise de Pareto |
+| **Documentação** | Documentação técnica, regras de negócio e premissas analíticas |
+| **Versionamento** | Git e GitHub |
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Tecnologia em Sistemas para Internet** — IFES  
+  2024 – Em andamento
+
+- **Química Industrial** — IFES  
+  Concluído
 
 ---
 
 ### 📁 Repositórios
 
-<p>
+<p align="left">
     <a href="https://github.com/devGaygher/olist-bi">
-        <img
-            alt="olist-bi"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=olist-bi&theme=tokyonight"
-        />
+        <img alt="Olist BI" src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=olist-bi&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D" />
     </a>
     <a href="https://github.com/devGaygher/mysql-sql-studies">
-        <img
-            alt="mysql-sql-studies"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=mysql-sql-studies&theme=tokyonight"
-        />
+        <img alt="SQL e MySQL" src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=mysql-sql-studies&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D" />
     </a>
 </p>
 
 ---
 
-### 📚 Estudando Atualmente
+### 📚 Aprendizado Contínuo
 
-- Escrita de consultas SQL para análise de negócio
-- Modelagem de dados e integridade de bancos relacionais
-- Power BI e visualização de dados
+Atualmente, estou aprofundando meus conhecimentos em:
 
-
+- SQL avançado e consultas analíticas;
+- Python aplicado à análise e automação de dados;
+- Pandas e tratamento de dados;
+- Power BI e medidas DAX avançadas;
+- Modelagem dimensional;
+- Automação de pipelines ETL;
+- Análise de indicadores financeiros e contábeis;
+- Business Intelligence aplicado à indústria.
 
 ---
 
-### 🌍 Idiomas
+### 🎯 Interesses Profissionais
 
-Português (nativo) · Inglês (intermediário) · Espanhol (básico)
+- Data Analytics
+- Business Intelligence
+- Data Quality
+- Financial Analytics
+- Industrial Analytics
+- Business Analysis
+- Process Automation
 
-### 📫 Contato
+---
 
-[LinkedIn](https://www.linkedin.com/in/rafael-gaygher/) · [dev.gaygher@gmail.com](mailto:dev.gaygher@gmail.com)
+<p align="center">
+    Transformando dados em informações confiáveis para apoiar decisões de negócio.
+</p>
