@@ -1,42 +1,95 @@
-Hi, I'm Rafael 👋
+# 📊 Rafael Gaygher
 
-I'm transitioning into Data Analytics and Business Intelligence, combining my background in Quality Control with hands-on projects in SQL, data validation, and data modeling.
-My previous experience in the food industry taught me to pay attention to data consistency, investigate inconsistencies, and document processes. I'm now applying that mindset to data analysis, turning raw data into reliable information that supports business decisions.
+**`Analista de Dados | Business Intelligence`**
 
-🚀 Featured Project
-Olist BI - E-commerce Analytics
+Olá! Sou o Rafael, estou em transição de carreira para **Análise de Dados e Business Intelligence**. Venho da área de Controle de Qualidade na indústria alimentícia, onde aprendi a cuidar da consistência dos dados, investigar inconsistências e documentar processos. Hoje aplico esse mesmo olhar em projetos de SQL, validação e modelagem de dados, transformando dados brutos em informação confiável para apoiar decisões de negócio.
 
-A portfolio project simulating the role of a data analyst in a fictional e-commerce business, using the public Olist dataset from Kaggle.
-The project focuses on preparing, validating, and analyzing data to answer business questions and develop a Power BI dashboard.
-Tech stack: MySQL 8, SQL, Git, GitHub, and Power BI (planned).
+<p align="left">
+    <a href="https://www.linkedin.com/in/rafael-gaygher/">
+        <img
+            alt="LinkedIn"
+            title="Me siga no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-Rafael%20Gaygher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:dev.gaygher@gmail.com">
+        <img
+            alt="Email"
+            title="Envie um e-mail"
+            src="https://img.shields.io/badge/Email-dev.gaygher@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/devGaygher?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://img.shields.io/github/followers/devGaygher?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba&logoColor=white"
+        />
+    </a>
+</p>
 
-Current focus:
-Data loading and quality validation
-SQL queries and relational data modeling
-Primary and foreign keys, integrity constraints, and testing
-Documenting business definitions and analytical assumptions
-Business analysis and dashboard development
+---
 
-🛠️ Skills & Technologies
-SQL & Databases: SQL, MySQL
-Data Analytics & BI: Data profiling, data quality, relational data modeling, Power BI (learning)
-Data Engineering: ETL concepts, data processing, Python (learning)
-Tools & Workflow: Git, GitHub, Docker, Jupyter
-Other Development: HTML, CSS, JavaScript, Sass, Bootstrap, Tailwind CSS, Kotlin
+### 🚀 Projeto em Destaque
 
-📚 Currently Learning
-Writing SQL queries for business analysis
-Data modeling and database integrity
-Power BI and data visualization
-Python for data analysis and automation
-ETL workflows and Apache Hop
+**[Olist BI - Análise de E-commerce](https://github.com/devGaygher/olist-bi)**
+Projeto de portfólio que simula o papel de um analista de dados em um e-commerce, usando o dataset público da Olist (Kaggle). O foco é preparar, validar e analisar os dados para responder perguntas de negócio e desenvolver um dashboard no Power BI.
 
-🌍 Languages
-Portuguese: Native
-English: Intermediate
-Spanish: Basic
+**Foco atual:**
+- Carga e validação da qualidade dos dados
+- Consultas SQL e modelagem relacional
+- Chaves primárias e estrangeiras, restrições de integridade e testes
+- Documentação de definições de negócio e premissas analíticas
+- Análise de negócio e desenvolvimento de dashboard
 
-📫 Contact
-LinkedIn: Rafael Pereira Ferreira Gaygher
-Email: dev.gaygher@gmail.com
+---
 
+### 🛠️ Linguagens e Tecnologias
+
+<p align="left">
+    <img alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📁 Repositórios
+
+<p>
+    <a href="https://github.com/devGaygher/olist-bi">
+        <img
+            alt="olist-bi"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=olist-bi&theme=tokyonight"
+        />
+    </a>
+    <a href="https://github.com/devGaygher/mysql-sql-studies">
+        <img
+            alt="mysql-sql-studies"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=mysql-sql-studies&theme=tokyonight"
+        />
+    </a>
+</p>
+
+---
+
+### 📚 Estudando Atualmente
+
+- Escrita de consultas SQL para análise de negócio
+- Modelagem de dados e integridade de bancos relacionais
+- Power BI e visualização de dados
+
+
+
+---
+
+### 🌍 Idiomas
+
+Português (nativo) · Inglês (intermediário) · Espanhol (básico)
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/rafael-gaygher/) · [dev.gaygher@gmail.com](mailto:dev.gaygher@gmail.com)
