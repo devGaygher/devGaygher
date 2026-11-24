@@ -44,6 +44,31 @@ A solução contempla o tratamento, a validação, a modelagem e a análise de d
 
 ---
 
+#### 📊 [Quality Analytics — Non-Conformity Management](https://github.com/devGaygher/quality-analytics-dashboard)
+
+Projeto de Business Intelligence desenvolvido originalmente para atender a uma necessidade real de controle e acompanhamento de indicadores de qualidade na indústria alimentícia.
+
+A solução contempla a extração, o tratamento, a padronização e a validação de registros operacionais, além do desenvolvimento de dashboards interativos para monitoramento de não conformidades e apoio à tomada de decisões.
+
+**Principais competências aplicadas:**
+
+- Extração de dados do Trello;
+- ETL e qualidade de dados;
+- Automação com Python, Pandas e OpenPyXL;
+- Tabelas dinâmicas e segmentações;
+- Modelagem de dados com Power Pivot;
+- Desenvolvimento de medidas DAX;
+- Monitoramento de KPIs operacionais;
+- Análise de Pareto;
+- Testes unitários;
+- Documentação técnica.
+
+**Stack:** Excel · Python · Pandas · OpenPyXL · Power Pivot · DAX · Trello
+
+> Projeto autorizado para divulgação profissional, utilizando uma base demonstrativa de 529 registros sintéticos.
+
+---
+
 #### 💰 Corporate Financial Analytics — Brazilian Steel Industry
 
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-0369A1?style=flat-square)
