@@ -135,10 +135,16 @@ O objetivo é desenvolver um dashboard executivo de desempenho financeiro, permi
 
 <p align="left">
     <a href="https://github.com/devGaygher/olist-bi">
-        <img alt="Olist BI" src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=olist-bi&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D" />
+        <img
+            alt="Olist BI"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=olist-bi&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D&v=20261124"
+        />
     </a>
     <a href="https://github.com/devGaygher/mysql-sql-studies">
-        <img alt="SQL e MySQL" src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=mysql-sql-studies&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D" />
+        <img
+            alt="SQL e MySQL"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devGaygher&repo=mysql-sql-studies&bg_color=161B22&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&border_color=30363D&v=20261124"
+        />
     </a>
 </p>
 
