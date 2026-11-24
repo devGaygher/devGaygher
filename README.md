@@ -71,36 +71,36 @@ O objetivo é desenvolver um dashboard executivo de desempenho financeiro, permi
 #### 🗄️ Linguagens e Bancos de Dados
 
 <p align="left">
-    <img alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logoColor=white" />
-    <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="SQL" title="SQL" src="assets/badges/sql.svg" />
+    <img alt="MySQL" title="MySQL" src="assets/badges/mysql.svg" />
+    <img alt="Python" title="Python" src="assets/badges/python.svg" />
 </p>
 
 #### 📊 Data Analytics e Business Intelligence
 
 <p align="left">
-    <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power%20BI-0369A1?style=for-the-badge&logo=powerbi&logoColor=white" />
-    <img alt="Excel" title="Microsoft Excel" src="https://img.shields.io/badge/Excel-0369A1?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-    <img alt="Power Query" title="Power Query" src="https://img.shields.io/badge/Power%20Query-0369A1?style=for-the-badge&logoColor=white" />
-    <img alt="Power Pivot" title="Power Pivot" src="https://img.shields.io/badge/Power%20Pivot-0369A1?style=for-the-badge&logoColor=white" />
-    <img alt="DAX" title="DAX" src="https://img.shields.io/badge/DAX-0369A1?style=for-the-badge&logoColor=white" />
-    <img alt="Pandas" title="Pandas" src="https://img.shields.io/badge/Pandas-0369A1?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img alt="OpenPyXL" title="OpenPyXL" src="https://img.shields.io/badge/OpenPyXL-0369A1?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Power BI" title="Power BI" src="assets/badges/powerbi.svg" />
+    <img alt="Excel" title="Excel" src="assets/badges/excel.svg" />
+    <img alt="Power Query" title="Power Query" src="assets/badges/powerquery.svg" />
+    <img alt="Power Pivot" title="Power Pivot" src="assets/badges/powerpivot.svg" />
+    <img alt="DAX" title="DAX" src="assets/badges/dax.svg" />
+    <img alt="Pandas" title="Pandas" src="assets/badges/pandas.svg" />
+    <img alt="OpenPyXL" title="OpenPyXL" src="assets/badges/openpyxl.svg" />
 </p>
 
 #### ⚙️ Versionamento e Gerenciamento de Projetos
 
 <p align="left">
-    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="Trello" title="Trello" src="https://img.shields.io/badge/Trello-161B22?style=for-the-badge&logo=trello&logoColor=white" />
+    <img alt="Git" title="Git" src="assets/badges/git.svg" />
+    <img alt="GitHub" title="GitHub" src="assets/badges/github.svg" />
+    <img alt="Trello" title="Trello" src="assets/badges/trello.svg" />
 </p>
 
 #### 💻 Desenvolvimento Web
 
 <p align="left">
-    <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-334155?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-334155?style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="HTML5" title="HTML5" src="assets/badges/html5.svg" />
+    <img alt="CSS3" title="CSS3" src="assets/badges/css3.svg" />
 </p>
 
 ---
